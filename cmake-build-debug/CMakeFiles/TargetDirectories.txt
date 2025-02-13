@@ -1,0 +1,3 @@
+/Users/max/CLionProjects/demonstration/cmake-build-debug/CMakeFiles/demonstration.dir
+/Users/max/CLionProjects/demonstration/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/max/CLionProjects/demonstration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
